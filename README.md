@@ -5,7 +5,7 @@ by [Mosolova et al](https://aclanthology.org/2024.eacl-short.5/).
 
 ### Installation
 
-Firstly, install the fork of the sentence-trasnformers repository
+Firstly, clone the fork of the sentence-trasnformers repository
 from [here](https://github.com/anya-bel/sentence-transformers). Then install it:
 
 ```

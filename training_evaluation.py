@@ -33,13 +33,13 @@ class WiCEvaluator(SentenceEvaluator):
         self.save_every_epoch = save_every_epoch
 
     def __call__(self, model, output_path=None, epoch=-1, steps=-1):
-        print(f'Evaluation after epoch {epoch+1}')
+        print(f'Evaluation after epoch {epoch + 1}')
         now = datetime.datetime.now()
         print(now)
         tmp_model_path = f'{self.tmp_model_path_run}_tmp_eval_model'
         copy.deepcopy(model).save(tmp_model_path)
         if self.save_every_epoch:
-            copy.deepcopy(model).save(tmp_model_path + f'_epoch{epoch+1}')
+            copy.deepcopy(model).save(tmp_model_path + f'_epoch{epoch + 1}')
         tmp_model = AutoModel.from_pretrained(tmp_model_path).to(self.device)
 
         overall_results = dict()
@@ -103,8 +103,8 @@ class WiCEvaluator(SentenceEvaluator):
             print(f'Best Threshold {best_threshold}, accuracy: {round(best_acc * 100, 3)}% ({df_name} {self.prefix})')
             with open(self.results_path, 'a') as f:
                 f.write(
-                    f'{df_name} {self.prefix}_{epoch+1} Best Threshold {best_threshold}, accuracy: {round(best_acc * 100, 3)}%\n')
-            with open(self.results_path[:-4] + f'_{self.prefix}_epoch{epoch+1}.pkl', 'wb') as results_file:
+                    f'{df_name} {self.prefix}_{epoch + 1} Best Threshold {best_threshold}, accuracy: {round(best_acc * 100, 3)}%\n')
+            with open(self.results_path[:-4] + f'_{self.prefix}_epoch{epoch + 1}.pkl', 'wb') as results_file:
                 pickle.dump(overall_results, results_file)
         now = datetime.datetime.now()
         print(now)

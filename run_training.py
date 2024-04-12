@@ -21,9 +21,9 @@ device = 'cpu'
 train_batch_size = 64
 max_seq_length = 75
 
-wikt_verb_dataset = pd.read_csv('datasets/wikt_train_set.csv').loc[:101]
-wiktwic_df = pd.read_csv('datasets/wikt_wic_dev_set.csv').loc[:101]
-wic_df = pd.read_csv('datasets/original_wic_dev_set.csv').loc[:101]
+wikt_verb_dataset = pd.read_csv('datasets/wikt_train_set.csv')
+wiktwic_df = pd.read_csv('datasets/wikt_wic_dev_set.csv')
+wic_df = pd.read_csv('datasets/original_wic_dev_set.csv')
 
 examples_labels = []
 for verb, verb_df in wikt_verb_dataset.groupby('Verb'):
@@ -75,7 +75,7 @@ def make_experiment(decay, lr, temperature, selfaug_val, n_runs, num_epochs, tmp
                                      device,
                                      f'run{run}_decay{decay}_lr{lr}_selfaug{selfaug_val}_temp{temperature}',
                                      output_file,
-                                     tmp_path+f'_run{run}',
+                                     tmp_path + f'_run{run}',
                                      save_every_epoch=True)
 
         # Our training loss

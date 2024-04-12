@@ -1,0 +1,639 @@
+Lemma,POS,CutExample1,CutExample2,Border1,Border2,Label
+board,N,Room and board .,He nailed boards across the windows .,"[9, 14]","[10, 16]",False
+circulate,V,Circulate a rumor .,This letter is being circulated among the faculty .,"[0, 9]","[21, 31]",False
+hook,V,Hook a fish .,"He hooked a snake accidentally , and was so scared he dropped his rod into the water .","[0, 4]","[3, 9]",True
+recreation,N,For recreation he wrote poetry and solved crossword puzzles .,Drug abuse is often regarded as a form of recreation .,"[4, 14]","[42, 52]",True
+domesticity,N,Making a hobby of domesticity .,A royal family living in unpretentious domesticity .,"[18, 29]","[39, 50]",False
+acquisition,N,The child 's acquisition of language .,That graphite tennis racquet is quite an acquisition .,"[13, 24]","[41, 52]",False
+meeting,N,There was no meeting of minds .,The meeting elected a chairperson .,"[13, 20]","[4, 11]",False
+nude,N,They swam in the nude .,The marketing rule ' nude sells ' spread from verbal to visual mainstream media in the 20th century .,"[17, 21]","[21, 25]",False
+mark,N,He left an indelible mark on the American theater .,It was in London that he made his mark .,"[21, 25]","[34, 38]",True
+association,N,Conditioning is a form of learning by association .,Many close associations with England .,"[38, 49]","[11, 23]",False
+inclination,N,The alkaline inclination of the local waters .,An inclination of his head indicated his agreement .,"[13, 24]","[3, 14]",False
+glaze,V,Glaze the bread with eggwhite .,The potter glazed the dishes .,"[0, 5]","[11, 17]",True
+piggyback,V,An amendment to piggyback the current law .,He piggybacked her child so she could see the show .,"[16, 25]","[3, 14]",False
+pick,V,To pick rags .,Do n't always pick on your little brother .,"[3, 7]","[14, 18]",False
+belabor,V,Belabor the obvious .,She was belabored by her fellow students .,"[0, 7]","[8, 17]",False
+bell,V,Bell cows .,Who will bell the cat ?,"[0, 4]","[9, 13]",True
+tear,N,He took the manuscript in both hands and gave it a mighty tear .,There were big tears rolling down Lisa 's cheeks .,"[58, 62]","[15, 20]",False
+kill,V,Kill the engine .,He killed the ball .,"[0, 4]","[3, 9]",False
+analyze,V,Analyze your real motives .,The inspector analyzed the building 's soundness .,"[0, 7]","[14, 22]",True
+lecture,V,Did you ever lecture at Harvard ?,She lectured to the class about her travels .,"[13, 20]","[4, 12]",True
+rehearsal,N,A rehearsal will be held the day before the wedding .,He missed too many rehearsals .,"[2, 11]","[19, 29]",True
+forge,V,We decided to forge ahead with our plans even though our biggest underwriter backed out .,He forged ahead .,"[14, 19]","[3, 9]",True
+falsity,N,The belief that the world is flat is a falsity .,Argument could not determine its truth or falsity .,"[39, 46]","[42, 49]",True
+assurance,N,An assurance of help when needed .,His assurance in his superiority did not make him popular .,"[3, 12]","[4, 13]",False
+branch,N,A branch of Congress .,We have branches in all major suburbs .,"[2, 8]","[8, 16]",True
+fuzz,N,He tried to clear his head of the whisky fuzz .,Peach fuzz .,"[41, 45]","[6, 10]",False
+risk,V,I can not risk smoking .,Why risk your life ?,"[10, 14]","[4, 8]",True
+chemistry,N,The chemistry of indigo .,The chemistry of iron .,"[4, 13]","[4, 13]",True
+char,N,"“ Among other native delicacies , they give you fresh char . ” .","“ I had to scrub the kitchen today , because the char could n't come ” .","[54, 58]","[49, 53]",False
+response,N,This situation developed in response to events in Africa .,His responses have slowed with age .,"[28, 36]","[4, 13]",False
+excuse,N,That thing is a poor excuse for a gingerbread man . Has n't anyone taught you how to bake ?,He 's a sorry excuse of a doctor .,"[21, 27]","[14, 20]",True
+bondage,N,He sought release from his bondage to Satan .,A self freed from the bondage of time .,"[27, 34]","[22, 29]",True
+catch,N,The catch was only 10 fish .,He shared his catch with the others .,"[4, 9]","[14, 19]",False
+shadiness,N,There 's too much shadiness to take good photographs .,The shadiness of their transactions .,"[18, 27]","[4, 13]",False
+passage,N,The outward passage took 10 days .,She struggled to play the difficult passages .,"[12, 19]","[36, 44]",False
+daughter,N,"I already have a son , so I would like to have a daughter .",Her daughter cared for her in her old age .,"[49, 57]","[4, 12]",True
+hold,V,Please hold a table at Maxim 's .,Hold a table for us at 7:00 .,"[7, 11]","[0, 4]",True
+banish,V,Banish bad thoughts .,Banish gloom .,"[0, 6]","[0, 6]",True
+sense,N,A keen musical sense .,A good sense of timing .,"[15, 20]","[7, 12]",True
+opinion,N,"In my opinion , white chocolate is better than milk chocolate .",I would like to know your opinions on the new systems .,"[6, 13]","[26, 34]",True
+deed,N,He signed the deed .,I inherited the deed to the house .,"[14, 18]","[16, 20]",True
+question,N,His claim to the property has come under question .,He obeyed without question .,"[41, 49]","[18, 26]",True
+distribute,V,The publisher wants to distribute the book in Asia .,The function distributes the values evenly .,"[23, 33]","[13, 24]",False
+return,V,Return her love .,Return a compliment .,"[0, 6]","[0, 6]",True
+officer,N,He is an officer of the court .,The club elected its officers for the coming year .,"[9, 16]","[21, 29]",True
+clutch,V,To clutch power .,She clutched her purse .,"[3, 9]","[4, 12]",True
+dissipation,N,The dissipation of the mist .,Mindless dissipation of natural resources .,"[4, 15]","[9, 20]",False
+portfolio,N,He remembered her because she was carrying a large portfolio .,He holds the portfolio for foreign affairs .,"[51, 60]","[13, 22]",False
+play,N,They gave full play to the artist 's talent .,It was all done in play .,"[15, 19]","[19, 23]",False
+brush,N,She gave her hair a quick brush .,The dentist recommended two brushes a day .,"[26, 31]","[28, 35]",True
+rise,N,They asked for a 10 % rise in rates .,The rising of the Holy Ghost .,"[22, 26]","[4, 10]",False
+studio,N,His studio was cramped when he began as an artist .,You do n't need a studio to make a passport photograph .,"[4, 10]","[18, 24]",True
+cushion,V,To cushion a blow .,Cushion the blow .,"[3, 10]","[0, 7]",True
+plenty,N,There was plenty of food for everyone .,It must have cost plenty .,"[10, 16]","[18, 24]",False
+look,N,A look of triumph .,His look was fixed on her eyes .,"[2, 6]","[4, 8]",False
+recrudescence,N,A recrudescence of racism .,A recrudescence of the symptoms .,"[2, 15]","[2, 15]",True
+metadata,N,Most websites contain metadata to tell the computer how to lay the words out on the screen .,A library catalog is metadata because it describes publications .,"[22, 30]","[21, 29]",True
+streak,N,A streak of wildness .,He has a stubborn streak .,"[2, 8]","[18, 24]",True
+elapse,V,He allowed a month to elapse before beginning the work .,Several days elapsed before they met again .,"[22, 28]","[13, 20]",True
+corner,N,He tripled to the rightfield corner .,The southeastern corner of the Mediterranean .,"[29, 35]","[17, 23]",True
+average,N,He is about average in height .,The snowfall this month is below average .,"[12, 19]","[33, 40]",True
+replicate,V,"On entering a host cell , a virus will start to replicate .",Replicate the cell .,"[48, 57]","[0, 9]",True
+wait,V,She used to wait down at the Dew Drop Inn .,Wait here until your car arrives .,"[12, 16]","[0, 4]",False
+bottom,N,They started at the bottom of the hill .,They did much of their overseas trade in foreign bottoms .,"[20, 26]","[49, 56]",False
+straggle,N,A straggle of followers .,A straggle of outbuildings .,"[2, 10]","[2, 10]",True
+torture,N,In every war there are acts of torture that cause the world to shudder .,"Using large dogs to attack bound , hand - cuffed prisoners is clearly torture .","[31, 38]","[70, 77]",True
+wash,V,This silly excuse wo n't wash in traffic court .,The cat washes several times a day .,"[25, 29]","[8, 14]",False
+seem,V,I seem to be misunderstood by everyone .,There seems no reason to go ahead with the project now .,"[2, 6]","[6, 11]",False
+jockey,N,He 's a truck jockey .,A disc jockey .,"[14, 20]","[7, 13]",True
+sugar,V,Sugar your tea .,John heavily sugars his coffee .,"[0, 5]","[13, 19]",True
+load,V,Load a car .,Load the truck with hay .,"[0, 4]","[0, 4]",True
+canon,N,The neoclassical canon .,Canons of polite society .,"[17, 22]","[0, 6]",True
+upstage,V,She only wore that dress to upstage everyone .,"When the dog entered the stage , he upstaged the actress .","[28, 35]","[36, 44]",True
+ruin,V,This behavior will ruin your chances of winning the election .,The country lay ruined after the war .,"[19, 23]","[16, 22]",False
+modify,V,Please modify this letter to make it more polite .,He modified his views on same - gender marriage .,"[7, 13]","[3, 11]",True
+loose,V,Let loose mines .,Loose terrible plagues upon humanity .,"[4, 9]","[0, 5]",True
+breast,N,He beat his breast in anger .,The robin has a red breast .,"[12, 18]","[20, 26]",True
+invasion,N,An invasion of locusts .,An invasion of tourists .,"[3, 11]","[3, 11]",True
+stay,V,Wear gloves so your hands stay warm .,"Stay with me , please .","[26, 30]","[0, 4]",True
+chore,N,"Washing dishes is a chore , but we can not just stop eating .",The farmer 's morning chores .,"[20, 25]","[22, 28]",True
+stripe,N,Businessmen of every stripe joined in opposition to the proposal .,They earned their stripes in Kuwait .,"[21, 27]","[18, 25]",False
+sight,N,He was a familiar sight on the television .,They went to Paris to see the sights .,"[18, 23]","[30, 36]",True
+potluck,N,Here 's a good potluck of beans and stew .,Having arrived unannounced we had to take potluck .,"[15, 22]","[42, 49]",True
+push,V,You need to push quite hard to get this door open .,Nora pushed through the crowd .,"[12, 16]","[5, 11]",True
+nut,N,He was driving his car like a nut .,I kicked him in the nuts .,"[30, 33]","[20, 24]",False
+share,V,Our children share a love of music .,The two countries share a long border .,"[13, 18]","[18, 23]",True
+develop,V,Children must develop a sense of right and wrong .,We have developed a new theory of evolution .,"[14, 21]","[8, 17]",False
+compress,V,The force required to compress a spring varies linearly with the displacement .,She compressed her lips .,"[22, 30]","[4, 14]",True
+pressure,N,He used pressure to stop the bleeding .,The sensitivity of his skin to pressure and temperature was normal .,"[8, 16]","[31, 39]",False
+love,V,I love French food .,I loved to write .,"[2, 6]","[2, 7]",True
+strike,V,Strike an arc .,The clock struck midnight .,"[0, 6]","[10, 16]",False
+shtik,N,He 's a shtik crazy .,How did you ever fall for a shtik like that ?,"[8, 13]","[28, 33]",False
+tremor,N,She felt a tremor in her stomach before going on stage .,Did you feel the tremor this morning ?,"[11, 17]","[17, 23]",False
+whitewash,V,Let 's not whitewash the crimes of Stalin .,"In his sermon , the minister did n't try to whitewash over the sins of his church .","[11, 20]","[44, 53]",False
+bridge,N,Her glasses left marks on the bridge of her nose .,Rugby players often break the bridge of their noses .,"[30, 36]","[30, 36]",True
+adoxography,N,"Elizabethan schoolboys were taught adoxography , the art of eruditely praising worthless things .",Adoxography is particularly useful to lawyers .,"[35, 46]","[0, 11]",True
+dexterity,N,She twirled the knife through her fingers with impressive dexterity .,Playing computer games can improve your manual dexterity .,"[58, 67]","[47, 56]",True
+reflect,V,"People do that sort of thing every day , without ever stopping to reflect on the consequences .",The teacher 's ability reflects well on the school .,"[66, 73]","[23, 31]",False
+harbour,N,The city has an excellent natural harbour .,The neighbourhood is a well - known harbour for petty thieves .,"[34, 41]","[36, 43]",False
+absorb,V,Absorb the costs for something .,He absorbed the knowledge or beliefs of his tribe .,"[0, 6]","[3, 11]",False
+round,N,The round of the seasons .,The postman 's rounds .,"[4, 9]","[15, 21]",False
+resolution,N,Printing at higher resolution will cause a reduction in performance .,They never did achieve a final resolution of their differences .,"[19, 29]","[31, 41]",False
+applaud,V,I applaud your efforts .,"Although we do n't like your methods , we applaud your motives .","[2, 9]","[42, 49]",True
+trailer,N,The trailer for that movie makes it seem like it would be fun .,"At the end of the day , we put the snowmobiles back on the trailer .","[4, 11]","[59, 66]",False
+dinner,N,Guests should never be late to a dinner party .,On Sundays they had a large dinner when they returned from church .,"[33, 39]","[28, 34]",False
+growth,N,A growth of hair .,The growth of culture .,"[2, 8]","[4, 10]",False
+buzz,N,The buzz of excitement was so great that a formal denial was issued .,The buzz of a bumble bee .,"[4, 8]","[4, 8]",False
+beat,N,In the old days a policeman walked a beat and knew all his people by name .,A beat of the heart .,"[37, 41]","[2, 6]",False
+footprint,N,The computer had a desktop footprint of 10 by 16 inches .,The footprints of an earlier civilization .,"[27, 36]","[4, 14]",False
+nowhere,N,He came out of nowhere .,They went on a cruise to nowhere .,"[15, 22]","[25, 32]",True
+mince,N,A mince of mushrooms .,Mince tastes really good fried in a pan with some chopped onion and tomato .,"[2, 7]","[0, 5]",True
+militarize,V,Militarize the Civil Service .,Militarize Germany again after the war .,"[0, 10]","[0, 10]",False
+intention,N,The intention of this legislation is to boost the economy .,Good intentions are not enough .,"[4, 13]","[5, 15]",True
+submerge,V,Submerge your head completely .,The submarine submerged in the water .,"[0, 8]","[14, 23]",False
+amuse,V,I watch these movies because they amuse me .,The clown amused the children .,"[34, 39]","[10, 16]",True
+calibrate,V,Calibrate a gun .,He calibrated the thermometer for the Celsius scale .,"[0, 9]","[3, 13]",False
+circumference,N,A danger to all races over the whole circumference of the globe .,He had walked the full circumference of his land .,"[37, 50]","[23, 36]",True
+tap,V,Tap a keg of beer .,Tap a maple tree for its syrup .,"[0, 3]","[0, 3]",True
+branch,N,We opened a new branch in London .,Our main branch is downtown .,"[16, 22]","[9, 15]",True
+peradventure,N,This proves beyond peradventure that he is innocent .,Proved beyond peradventure . — South .,"[19, 31]","[14, 26]",True
+finish,N,My horse was several lengths behind at the finish .,The winner is the team with the most points at the finish .,"[43, 49]","[51, 57]",True
+kick,N,The kick must be synchronized with the arm movements .,A sidecar is a smooth drink but it has a powerful kick .,"[4, 8]","[50, 54]",False
+month,N,He was given a month to pay the bill .,We went on holiday for two months .,"[15, 20]","[27, 33]",True
+contradistinction,N,Sculpture in contradistinction to painting .,We used hamburgers and soda in contradistinction to healthy food .,"[13, 30]","[31, 48]",True
+remove,V,Remove a wrapper .,The President removed many postmasters .,"[0, 6]","[14, 21]",False
+crash,V,"You can crash here , though it 's not very comfortable .",The terrorists crashed the plane into the palace .,"[8, 13]","[15, 22]",False
+smoothness,N,The weather system of the Pacific is determined by the uninterrupted smoothness of the ocean .,His oily smoothness concealed his guilt from the police .,"[69, 79]","[9, 19]",False
+exhibition,N,There was an art exhibition on in the town hall .,A boat exhibition .,"[17, 27]","[7, 17]",True
+cloister,V,Cloister the garden .,She cloistered herself in the office .,"[0, 8]","[4, 14]",False
+maneuver,N,He made a great maneuver .,Parallel parking can be a difficult maneuver .,"[16, 24]","[36, 44]",True
+mess,N,The house was a mess .,My boss dumped a whole mess of projects on my desk today .,"[16, 20]","[23, 27]",False
+burn,V,Burn a CD .,My eyes are burning .,"[0, 4]","[12, 19]",False
+knuckleball,N,Even the pitcher does n't know where his knuckleball is going .,Boston Red Sox pitcher Tim Wakefield is best known for his use of the knuckleball .,"[41, 52]","[70, 81]",True
+map,V,Map the genes .,Map the surface of Venus .,"[0, 3]","[0, 3]",False
+mandate,V,Mandate a colony .,The new director of the school board mandated regular tests .,"[0, 7]","[37, 45]",False
+way,N,They did n't have much in the way of clothing .,We went our separate ways .,"[30, 33]","[21, 25]",False
+shock,V,To shock rye .,Shock grain .,"[3, 8]","[0, 5]",True
+tipper,N,A generous tipper .,The Americans are among the most generous tippers in the world .,"[11, 17]","[42, 49]",True
+avail,V,It will avail them to dispose of their booty .,He availed himself of the available resources .,"[8, 13]","[3, 10]",False
+button,N,"The politician wore a bright yellow button with the slogan "" Vote Smart "" emblazoned on it .",They passed out campaign buttons for their candidate .,"[36, 42]","[25, 32]",True
+crop,N,The annual crop of students brings many new ideas .,The latest crop of fashions is about to hit the stores .,"[11, 15]","[11, 15]",False
+boot,V,Boot your computer .,"When arriving at the office , first thing I do is booting my machine .","[0, 4]","[50, 57]",True
+heartbeat,N,The policeman waited for a heartbeat in vain .,He alone gives me such heartbeats .,"[27, 36]","[23, 33]",True
+drag,V,Time seems to drag when you 're waiting for a bus .,The speech dragged on for two hours .,"[14, 18]","[11, 18]",False
+chisel,V,Chisel the marble .,Who 's chiseling on the side ?,"[0, 6]","[7, 16]",False
+literature,N,One aspect of Waterloo has not yet been treated in the literature .,The technical literature .,"[55, 65]","[14, 24]",True
+snatch,N,Martin 's snatch at the bridle failed and the horse raced away .,Overheard snatches of their conversation .,"[10, 16]","[10, 18]",False
+excite,V,There are drugs designed to excite certain nerves in our body .,Excite the audience .,"[28, 34]","[0, 6]",True
+building,N,The entire building complained about the noise .,The building of the bridge will be completed in a couple of weeks .,"[11, 19]","[4, 12]",False
+scallop,V,Scallop the hem of the dress .,Scallop the meat .,"[0, 7]","[0, 7]",False
+date,V,Scientists often can not date precisely archeological or prehistorical findings .,To date the building of the pyramids .,"[25, 29]","[3, 7]",True
+exchange,N,They had a bitter exchange .,An exchange of cattle for grain .,"[18, 26]","[3, 11]",False
+apology,N,It was an apology for a meal .,The Apology of Socrates .,"[10, 17]","[4, 11]",False
+spade,N,She led a low spade .,Spades were trumps .,"[14, 19]","[0, 6]",True
+cocoon,V,She loves to stay at home and cocoon .,Families cocoon around the T.V. set most evenings .,"[30, 36]","[9, 15]",True
+build,V,Build up confidence .,They had to build up their fortress to protect against attack .,"[0, 5]","[12, 17]",True
+winterize,V,Winterize cars .,Winterize your houses .,"[0, 9]","[0, 9]",True
+wish,N,He got his wish .,My best wishes .,"[11, 15]","[8, 14]",False
+reinstatement,N,Her reinstatement to her former office followed quickly .,Many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement .,"[4, 17]","[89, 102]",False
+watch,V,Put a little baking soda in some vinegar and watch what happens .,The world is watching Sarajevo .,"[45, 50]","[13, 21]",False
+installation,N,He gave a speech as part of his installation into the hall of fame .,The telephone installation took only a few minutes .,"[32, 44]","[14, 26]",False
+conceive,V,She can not conceive .,Assisted procreation can help those trying to conceive .,"[12, 20]","[46, 54]",True
+touch,V,He could not touch the meaning of the poem .,Helen Keller felt the physical world by touching people and objects around her .,"[13, 18]","[40, 48]",False
+percolate,V,Percolate coffee .,I 'll percolate some coffee .,"[0, 9]","[6, 15]",True
+drought,N,When England defeated Pakistan it ended a ten - year drought .,Farmers most affected by the drought hope that there may yet be sufficient rain early in the growing season .,"[53, 60]","[29, 36]",False
+excite,V,Excite the neurons .,The fireworks which opened the festivities excited anyone present .,"[0, 6]","[43, 50]",False
+pull,N,A zipper pull .,He grabbed the pull and opened the drawer .,"[9, 13]","[15, 19]",True
+fight,N,A fight broke out at the hockey game .,There were fights in the streets .,"[2, 7]","[11, 17]",True
+breed,N,He experimented on a particular breed of white rats .,A breed of animal .,"[32, 37]","[2, 7]",True
+mainstream,N,His thinking was in the American mainstream .,"His ideas were well outside the mainstream , but he presented them intelligently , and we were impressed if not convinced .","[33, 43]","[32, 42]",True
+help,N,There 's no help for it .,I need some help with my homework .,"[12, 16]","[12, 16]",False
+cognate,N,"English is a cognate of Greek , German , Russian and Persian .","English and , Russian , Icelandic and Irish are all cognates .","[13, 20]","[52, 60]",True
+convey,V,To convey information .,She conveyed the message to me .,"[3, 9]","[4, 12]",True
+profession,N,A profession of disagreement .,My father was a barrister by profession .,"[2, 12]","[29, 39]",False
+protest,N,The senator rose to register his protest .,They finished the game under protest to the league president .,"[33, 40]","[29, 36]",True
+operation,N,The plane 's operation in high winds .,The power of its engine determines its operation .,"[13, 22]","[39, 48]",True
+strip,N,He welded together some pieces of strip .,She did a strip right in front of everyone .,"[34, 39]","[10, 15]",False
+toss,V,I 'll toss you for it .,Steve tossed John the ball .,"[6, 10]","[6, 12]",True
+squeaker,N,Which hinge is the squeaker ?,Those sneakers are squeakers .,"[19, 27]","[19, 28]",True
+delta,N,The Nile delta .,The Mississippi River delta .,"[9, 14]","[22, 27]",True
+sign,V,Please sign on the dotted line .,Please sign here .,"[7, 11]","[7, 11]",True
+capacity,N,Limited runway capacity .,He should be retained in his present capacity at a higher salary .,"[15, 23]","[37, 45]",False
+frame,N,A lace frame .,His starved flesh hung loosely on his once imposing frame .,"[7, 12]","[52, 57]",False
+solemnize,V,"The couple chose to solemnize their relationship in a secular ceremony , instead of having a wedding .",The King solemnized this day of morning .,"[20, 29]","[9, 19]",False
+drawing,N,The drawing of water from the well .,He did complicated pen - and - ink drawings like medieval miniatures .,"[4, 11]","[35, 43]",False
+cup,N,He put the cup back in the saucer .,The handle of the cup was missing .,"[11, 14]","[18, 21]",True
+plan,V,Plan an attack .,He plans to be in graduate school next year .,"[0, 4]","[3, 8]",False
+hit,V,Hit the bottle .,He tries to hit on women in bars .,"[0, 3]","[12, 15]",False
+criticize,V,"Those who criticize others often are not perfect , either .",The paper criticized the new movie .,"[10, 19]","[10, 20]",False
+wake,N,There 's no weeping at an Irish wake .,The motorboat 's wake capsized the canoe .,"[32, 36]","[17, 21]",False
+stream,N,He felt a stream of air .,The hose ejected a stream of water .,"[10, 16]","[19, 25]",True
+block,V,Block the signals emitted by this station .,The thick curtain blocked the action on the stage .,"[0, 5]","[18, 25]",False
+obstacle,N,Lack of imagination is an obstacle to one 's advancement .,The poverty of a district is an obstacle to good education .,"[26, 34]","[32, 40]",True
+point,V,Point a gun .,It 's rude to point at other people .,"[0, 5]","[14, 19]",False
+draw,N,The luck of the draw .,They anticipated a tough draw .,"[16, 20]","[25, 29]",True
+embellish,V,"To embellish a story , the truth .",The old book cover was embellished with golden letters .,"[3, 12]","[23, 34]",True
+glimpse,N,From the window he could catch a glimpse of the lake .,He caught only a glimpse of the professor 's meaning .,"[33, 40]","[17, 24]",False
+shuffle,V,"You shuffle , I 'll deal .",Shuffle the cards .,"[4, 11]","[0, 7]",True
+bracket,V,Please bracket this remark .,Bracket bookshelves .,"[7, 14]","[0, 7]",False
+vary,V,Prices vary .,His moods vary depending on the weather .,"[7, 11]","[10, 14]",True
+abridge,V,The new law might abridge our freedom of expression .,He had his rights abridged by the crooked sheriff .,"[18, 25]","[18, 26]",True
+attack,N,He published an unexpected attack on my work .,An attack of diarrhea .,"[27, 33]","[3, 9]",False
+revenge,N,Indifference is the sweetest revenge .,"When I left my wife , she tried to set fire to the house in revenge .","[29, 36]","[60, 67]",True
+review,V,Let 's review your situation .,"Before I tackle the question directly , I must briefly review historical approaches to the problem .","[7, 13]","[55, 61]",True
+tilt,N,The court 's tilt toward conservative rulings .,The tower had a pronounced tilt .,"[13, 17]","[27, 31]",False
+consult,V,They had to consult before arriving at a decision .,Consult your local broker .,"[12, 19]","[0, 7]",True
+reline,V,Reline the paper .,The old fur coat must be relined .,"[0, 6]","[25, 32]",False
+liberty,N,At liberty to choose whatever occupation one wishes .,Liberty to think or feel or do just as one pleases .,"[3, 10]","[0, 7]",True
+answer,V,Answer the question .,She did n't want to answer .,"[0, 6]","[20, 26]",True
+carve,V,Carve one 's name into the bark .,That chisel carved the statue .,"[0, 5]","[12, 18]",True
+square,N,The carpenter who built this room must have lost his square .,64 is the square of 8 .,"[53, 59]","[10, 16]",False
+donate,V,Donate money to the orphanage .,I donated blood to the Red Cross for the victims of the earthquake .,"[0, 6]","[2, 9]",True
+proliferate,V,We must not proliferate nuclear arms .,The flowers proliferated rapidly all spring .,"[12, 23]","[12, 24]",True
+hew,V,Hew out a path in the rock .,One of the most widely used typefaces in the world was hewn by the English printer and typographer John Baskerville .,"[0, 3]","[55, 59]",True
+keep,V,Can I keep my old stuffed animals ?,She kept her maiden name after she married .,"[6, 10]","[4, 8]",True
+sophistication,N,He practiced the art of sophistication upon reason .,Understanding affine transformations requires considerable mathematical sophistication .,"[24, 38]","[72, 86]",False
+shot,N,He trained at putting the shot .,"The shot flew twenty metres , and nearly landed on the judge 's foot .","[26, 30]","[4, 8]",True
+muscle,N,The senators used their muscle to get the party leader to resign .,Muscle consists largely of actin and myosin filaments .,"[24, 30]","[0, 6]",False
+fiddle,V,Do n't fiddle with the screws .,She always fiddles with her van on the weekend .,"[7, 13]","[11, 18]",False
+harass,V,Harass the enemy .,This man harasses his female co - workers .,"[0, 6]","[9, 17]",False
+minister,N,The minister said a prayer on behalf of the entire congregation .,Clergymen are usually called ministers in Protestant churches .,"[4, 12]","[29, 38]",True
+sequence,N,He played the trumps in sequence .,The doctor saw a sequence of patients .,"[24, 32]","[17, 25]",False
+abatement,N,The abatement of a nuisance is the suppression thereof .,Laws enforcing noise abatement .,"[4, 13]","[21, 30]",True
+incorporate,V,Incorporate this document with those pertaining to the same case .,The company was incorporated in 1980 .,"[0, 11]","[16, 28]",False
+chew,V,The steak was tough to chew as it had been cooked too long .,Chew your food and do n't swallow it !,"[23, 27]","[0, 4]",True
+conclusion,N,The conclusion of the peace treaty .,The conclusion of a business deal .,"[4, 14]","[4, 14]",True
+fiefdom,N,The duke 's fiefdom had been greatly expanded as a reward for his dutiful military service on behalf of the king .,"Most of our company 's computers are standardized , but the IT director allows the employees in his own little fiefdom to specify their own machines .","[12, 19]","[111, 118]",False
+marriage,N,A marriage of ideas .,The marriage of music and dance .,"[2, 10]","[4, 12]",True
+button,N,"Pat pushed the button marked "" shred "" on the blender .",The elevator was operated by push buttons .,"[15, 21]","[34, 41]",True
+plant,V,Plant bugs in the dissident 's apartment .,Plant a spy in Moscow .,"[0, 5]","[0, 5]",True
+accumulate,V,He wishes to accumulate a sum of money .,Journals are accumulating in my office .,"[13, 23]","[13, 25]",True
+wrangle,V,Wrangle horses .,"The bar keeper threw them out , but they continued to wrangle on down the street .","[0, 7]","[54, 61]",False
+ticket,N,This car could be just the ticket for a small family .,Joe will be running on an anti - crime ticket .,"[27, 33]","[39, 45]",False
+shake,V,Shake the salt out of the salt shaker .,His hands shook .,"[0, 5]","[10, 15]",False
+process,V,Process iron .,They processed into the dining room .,"[0, 7]","[5, 14]",False
+spread,V,The infection spread .,Optimism spread among the population .,"[14, 20]","[9, 15]",True
+seize,V,Birds of prey often seize small mammals .,The invaders seized the land and property of the inhabitants .,"[20, 25]","[13, 19]",False
+follow,V,We must follow closely the economic development is Cuba .,It follows that your assertion is false .,"[8, 14]","[3, 10]",False
+pull,N,It was a long pull but we made it .,He was sidelined with a hamstring pull .,"[14, 18]","[34, 38]",False
+misdirect,V,Misdirect the letter .,The pedestrian misdirected the out - of - town driver .,"[0, 9]","[15, 26]",False
+distribution,N,Worldwide in distribution .,The distribution of nerve fibers .,"[13, 25]","[4, 16]",True
+sit,V,When does the court of law sit ?,In what city is the circuit court sitting for this session .,"[27, 30]","[34, 41]",True
+command,V,To command an army or a ship .,Command the military forces .,"[3, 10]","[0, 7]",True
+touch,N,He has a touch of rheumatism .,He longed for the touch of her hand .,"[9, 14]","[18, 23]",False
+last,V,Summer seems to last longer each year .,The bad weather lasted for three days .,"[16, 20]","[16, 22]",True
+lead,N,A good lead for a job .,"Joe is a great addition to our sales team , he has numerous leads in the paper industry .","[7, 11]","[60, 65]",True
+contact,V,I am trying to contact my sister .,He never contacted his children after he emigrated to Australia .,"[15, 22]","[9, 18]",True
+send,V,Send me your latest results .,Nora sent the book from Paris .,"[0, 4]","[5, 9]",True
+patronage,N,The restaurant had an upper class patronage .,Even before noon there was a considerable patronage .,"[34, 43]","[42, 51]",False
+exile,N,He lived in exile .,She lived as an exile .,"[12, 17]","[16, 21]",False
+bastion,N,The last bastion of communism .,A bastion against corruption .,"[9, 16]","[2, 9]",True
+admit,V,Admit someone to the profession .,She was admitted to the New Jersey Bar .,"[0, 5]","[8, 16]",True
+occurrence,N,A disease of frequent occurrence .,The occurrence ( or presence ) of life on other planets .,"[22, 32]","[4, 14]",True
+ease,V,Ease the pain in your legs .,The pain eased overnight .,"[0, 4]","[9, 14]",False
+safety,N,He ran to safety .,The reciprocal of safety is risk .,"[10, 16]","[18, 24]",False
+save,N,The relief pitcher got credit for a save .,The goalie made a brilliant save .,"[36, 40]","[28, 32]",True
+stop,V,Stop a car .,Stop the thief .,"[0, 4]","[0, 4]",True
+exalt,V,These paintings exalt the imagination .,The man was exalted from a humble carpenter to a minister .,"[16, 21]","[12, 19]",False
+taste,N,To ask at that particular time was the ultimate in bad taste .,He got a taste of life on the wild side .,"[55, 60]","[9, 14]",False
+advantage,N,The enemy had the advantage of a more elevated position .,The experience gave him the advantage over me .,"[18, 27]","[28, 37]",True
+deliberation,N,It was the deliberation of his act that was insulting .,The deliberations of the jury .,"[11, 23]","[4, 17]",False
+allowance,V,The captain was obliged to allowance his crew .,Our provisions were allowanced .,"[27, 36]","[20, 30]",True
+arousal,N,To influence the arousal of brain and behavior .,The purpose of art is the arousal of emotions .,"[17, 24]","[26, 33]",True
+whimsy,N,Whimsy can be humorous to someone with time to enjoy it .,He had a whimsy about flying to the moon .,"[0, 6]","[9, 15]",True
+strain,V,Do n't strain your mind too much .,The rope strained when the weight was attached .,"[7, 13]","[9, 17]",False
+vision,N,The runners emerged from the trees into his clear vision .,He had a vision of the Virgin Mary .,"[50, 56]","[9, 15]",False
+relieve,V,This shall not relieve either Party of any obligations .,The thief relieved me of $ 100 .,"[15, 22]","[10, 18]",False
+vote,V,I vote that we all go home .,She voted for going to the Chinese restaurant .,"[2, 6]","[4, 9]",True
+gap,N,Gap between income and outgo .,The exploring party went through the high gap in the mountains .,"[0, 3]","[42, 45]",False
+partnership,N,The action teams worked in partnership with the government .,"Effective language learning is a partnership between school , teacher and student .","[27, 38]","[33, 44]",True
+piece,N,The children acted out a comic piece to amuse the guests .,He sacrificed a piece to get a strategic advantage .,"[31, 36]","[16, 21]",False
+body,N,The body of the car was badly rusted .,Administrative body .,"[4, 8]","[15, 19]",False
+right,N,Take a right at the corner .,Film rights .,"[7, 12]","[5, 11]",False
+fuel,N,More fuel is needed during the winter months .,They developed alternative fuels for aircraft .,"[5, 9]","[27, 32]",True
+peg,V,Let 's peg the rug to the floor .,Peg a tent .,"[7, 10]","[0, 3]",True
+largeness,N,The might have repercussions of unimaginable largeness .,A man distinguished by the largeness and scope of his views .,"[45, 54]","[27, 36]",False
+affect,V,Will the new rules affect me ?,The medicine affects my heart rate .,"[19, 25]","[13, 20]",False
+hell,N,War is hell .,The hell of battle .,"[7, 11]","[4, 8]",False
+cost,N,The average cost of a new house is twice as much as t was 20 years ago .,The total cost of the new complex was an estimated $ 1.5 million .,"[12, 16]","[10, 14]",True
+parade,N,"The floats and horses in the parade were impressive , but the marching bands were really amazing .",She made a parade of her sorrows .,"[29, 35]","[11, 17]",False
+preparation,N,He left the preparation of meals to his wife .,The resolution of one dissonance is often the preparation for another dissonance .,"[12, 23]","[46, 57]",False
+sort,N,She served a creamy sort of dessert thing .,She wore a sort of magenta dress .,"[20, 24]","[11, 15]",True
+refrigerate,V,Please refrigerate your uncooked meats at or below 40 Fahrenheit .,Refrigerate this medicine .,"[7, 18]","[0, 11]",True
+ash,N,The woods planted in ash will see a different mix of species .,The ash trees are dying off .,"[21, 24]","[4, 7]",True
+tradecraft,N,The CIA chief of station accepted responsibility for his agents ' failures of tradecraft .,Instructional designers are trained in something that might be called tradecraft .,"[78, 88]","[70, 80]",True
+sense,V,Particle detectors sense ionization .,She immediately sensed her disdain .,"[19, 24]","[16, 22]",False
+utter,V,Utter counterfeit currency .,He uttered strange sounds that nobody could understand .,"[0, 5]","[3, 10]",False
+capital,N,The drug capital of Columbia .,The crime capital of Italy .,"[9, 16]","[10, 17]",True
+prepare,V,Prepare for war .,We prepared a fish for dinner .,"[0, 7]","[3, 11]",False
+gem,N,He had the gem set in a ring for his wife .,She 's an absolute gem .,"[11, 14]","[19, 22]",False
+part,N,The government must do its part .,Religions in all parts of the world .,"[27, 31]","[17, 22]",False
+rise,V,Rise to the occasion .,Her spirits rose when she heard the good news .,"[0, 4]","[12, 16]",False
+hook,V,Hook the ball .,His opponent hooked him badly .,"[0, 4]","[13, 19]",False
+tool,N,"He was a tool , no more than a pawn to her .",I do n't have the right tools to start fiddling around with the engine .,"[9, 13]","[24, 29]",False
+life,N,Real life .,It was a heavy play and the actors tried in vain to give life to it .,"[5, 9]","[57, 61]",False
+result,V,Result in tragedy .,This measure will result in good or in evil .,"[0, 6]","[18, 24]",True
+story,N,The book tells the story of two roommates .,Disney 's stories entertain adults as well as children .,"[19, 24]","[10, 17]",True
+load,N,That 's a load off my mind .,I 'm worried that the load on that transformer will be too high .,"[10, 14]","[22, 26]",False
+office,N,An executive or judical office .,During his first year in office .,"[24, 30]","[25, 31]",False
+configure,V,Configure a plane for a combat mission .,Configure my new computer .,"[0, 9]","[0, 9]",True
+torrent,N,The houses were swept away in the torrent .,They endured a torrent of inquiries .,"[34, 41]","[15, 22]",True
+choke,V,Choke a carburetor .,This neckband is choking the cat .,"[0, 5]","[17, 24]",False
+embodiment,N,The embodiment of hope .,A circle was the embodiment of his concept of life .,"[4, 14]","[17, 27]",False
+date,N,His date never stopped talking .,The date for pleading .,"[4, 8]","[4, 8]",False
+engrave,V,Engrave a letter .,Engrave a pen .,"[0, 7]","[0, 7]",False
+blend,N,` smog ' is a blend of ` smoke ' and ` fog ' .,Their music has been described as a blend of jazz and heavy metal .,"[14, 19]","[36, 41]",True
+aim,V,She wanted to aim a pun .,He aimed his fists towards his opponent 's face .,"[14, 17]","[3, 8]",False
+department,N,His work established a new department of literature .,Baking is not my department .,"[27, 37]","[17, 27]",True
+plume,N,A plume of smoke .,Grass with large plumes .,"[2, 7]","[17, 23]",True
+curd,N,Bean curd .,Lemon curd .,"[5, 9]","[6, 10]",True
+rush,N,The linebackers were ready to stop a rush .,Come back after the rush .,"[37, 41]","[20, 24]",False
+remover,N,Rust remover .,Paint remover .,"[5, 12]","[6, 13]",True
+care,N,He handled the vase with care .,Care should be taken when holding babies .,"[25, 29]","[0, 4]",False
+noise,N,"He knew that it was trash day , when the garbage collectors made all the noise .",They heard indistinct noises of people talking .,"[73, 78]","[22, 28]",False
+donate,V,Some of the members may donate privately .,She donates to her favorite charity every month .,"[24, 30]","[4, 11]",True
+earshot,N,I 'll row out on the lake but stay within earshot .,The children were told to stay within earshot .,"[42, 49]","[38, 45]",True
+home,N,Canadian tariffs enabled United States lumber companies to raise prices at home .,His home is New Jersey .,"[75, 79]","[4, 8]",True
+member,N,Canada is a member of the United Nations .,The library was a member of the interlibrary loan association .,"[12, 18]","[18, 24]",True
+class,N,An emerging professional class .,"Apologizing for losing your temper , even though you were badly provoked , showed real class .","[25, 30]","[87, 92]",False
+disable,V,Disable this command on your computer .,He was disabled in a car accident .,"[0, 7]","[7, 15]",False
+moderate,V,To moderate a synod .,John moderated the discussion .,"[3, 11]","[5, 14]",True
+horse,N,A clothes horse .,500 horse led the attack .,"[10, 15]","[4, 9]",False
+tree,V,Her dog likes to tree squirrels .,This lot should be treed so that the house will be shaded in summer .,"[17, 21]","[19, 24]",False
+attitude,N,The airliner had to land with a nose - up attitude after the incident .,The actor struck just the right attitude .,"[42, 50]","[32, 40]",False
+afford,V,We ca n't afford to send our children to college .,Can you afford this car ?,"[10, 16]","[8, 14]",True
+renovate,V,This will renovate my spirits .,They renovated the ceiling of the Sistine Chapel .,"[10, 18]","[5, 14]",False
+wateriness,N,The wateriness of his blood .,The haziness and wateriness of his disquisitions .,"[4, 14]","[17, 27]",True
+continent,N,Pioneers had to cross the continent on foot .,There are seven continents .,"[26, 35]","[16, 26]",True
+break,N,Make a break for it .,He finally got his big break .,"[7, 12]","[23, 28]",False
+operation,N,They organized a rescue operation .,Consolidate the companies various operations .,"[24, 33]","[34, 44]",True
+check,N,As he called the role he put a check mark by each student 's name .,A check on its dependability under stress .,"[31, 36]","[2, 7]",False
+influence,N,He was a bad influence on the children .,Used her parents ' influence to get the job .,"[13, 22]","[19, 28]",False
+scrub,V,Surgeons must scrub prior to an operation .,She scrubbed his back .,"[14, 19]","[4, 12]",False
+facility,N,The assembly plant is an enormous facility .,Educational facilities .,"[34, 42]","[12, 22]",False
+wine,N,She ordered some wine for the meal .,Wine is stronger than beer .,"[17, 21]","[0, 4]",True
+closure,N,They regretted the closure of the day care center .,He needed to grieve before he could achieve a sense of closure .,"[19, 26]","[55, 62]",False
+cuisine,N,The restaurant is noted for its excellent cuisine .,French cuisine is considered to be one of the world 's most refined and elegant styles of cooking .,"[42, 49]","[7, 14]",True
+peak,N,The peak of perfection .,The view from the peak was magnificent .,"[4, 8]","[18, 22]",False
+liberate,V,To liberate the mind from prejudice .,To liberate gases .,"[3, 11]","[3, 11]",True
+trip,V,A pedestrian was able to trip the burglar as he was running away .,The questions on the test tripped him up .,"[25, 29]","[26, 33]",True
+ball,N,The ball at the base of the thumb .,He stood on the balls of his feet .,"[4, 8]","[16, 21]",True
+move,N,It 's your move ! Roll the dice !,"If you roll a six , you can make two moves .","[11, 15]","[37, 42]",True
+slip,V,Slip into something comfortable .,My grades are slipping .,"[0, 4]","[14, 22]",False
+flush,V,Flush the meadows .,The sky flushed with rosy splendor .,"[0, 5]","[8, 15]",False
+comb,V,Comb the wool .,Comb your hair before dinner .,"[0, 4]","[0, 4]",True
+walk,N,After the blizzard he shoveled the front walk .,Walking is a healthy form of exercise .,"[41, 45]","[0, 7]",False
+blockage,N,"There was a blockage in the sewer , so we called out the plumber .",We had to call a plumber to clear out the blockage in the drainpipe .,"[12, 20]","[42, 50]",False
+collapse,V,Collapse the music stand .,The school system is collapsing .,"[0, 8]","[21, 31]",False
+sleep,V,We sleep five people in each room .,This tent sleeps six people .,"[3, 8]","[10, 16]",True
+shape,N,Geometry is the mathematical science of shape .,He could barely make out their shapes .,"[40, 45]","[31, 37]",False
+leave,V,Leave your child the nurse 's care .,He left the decision to his deputy .,"[0, 5]","[3, 7]",True
+aliyah,N,Students making aliyah .,He was called on for an aliyah .,"[16, 22]","[24, 30]",False
+lay,V,To lay a tax on land .,Lay a responsibility on someone .,"[3, 6]","[0, 3]",True
+thing,N,A thing of the spirit .,Things of the heart .,"[2, 7]","[0, 6]",True
+acquaintance,N,I know of the man ; but have no acquaintance with him .,I have trouble remembering the names of all my acquaintances .,"[32, 44]","[47, 60]",False
+sign,V,Sign an intersection .,This road has been signed .,"[0, 4]","[19, 25]",True
+street,N,Be careful crossing the street .,The whole street protested the absence of lights .,"[24, 30]","[10, 16]",False
+fuss,V,Do n't fuss too much over the grandchildren -- they are quite big now .,She fusses over her husband .,"[7, 11]","[4, 10]",False
+affair,N,It is none of your affair .,He used a hook - shaped affair with a long handle to unlock the car .,"[19, 25]","[24, 30]",True
+direct,V,"Direct your anger towards others , not towards yourself .",He directed all his energies into his dissertation .,"[0, 6]","[3, 11]",False
+characterize,V,You can characterize his behavior as that of an egotist .,This poem can be characterized as a lament for a dead lover .,"[8, 20]","[17, 30]",True
+strangle,V,The imperialist nation wanted to strangle the free trade between the two small countries .,A man in Boston has been strangling several dozen prostitutes .,"[33, 41]","[25, 35]",False
+board,N,The board has seven members .,He got out the board and set up the pieces .,"[4, 9]","[15, 20]",False
+grip,N,In Britain they call a bobby pin a grip .,They kept a firm grip on the two top priorities .,"[35, 39]","[17, 21]",False
+swear,V,I swear by my grandmother 's recipes .,Before God I swear I am innocent .,"[2, 7]","[13, 18]",False
+gown,N,The relations between town and gown are always sensitive .,"In the perennial town versus gown battles , townies win some violent battles , but the collegians are winning the war .","[31, 35]","[29, 33]",True
+triangulate,V,Triangulate the piece of cardboard .,The land surveyor worked by triangulating the plot .,"[0, 11]","[28, 41]",False
+snap,N,The infielder 's snap and throw was a single motion .,Children can manage snaps better than buttons .,"[17, 21]","[20, 25]",False
+say,V,What does the law say ?,The clock says noon .,"[18, 21]","[10, 14]",False
+aptness,N,The aptness of men to follow example .,The aptness of iron to rust .,"[4, 11]","[4, 11]",True
+pay,N,He wasted his pay on drink .,Many employers have rules designed to keep employees from comparing their pays .,"[14, 17]","[74, 78]",True
+collapse,N,The collapse of the old star under its own gravity .,The roof is in danger of collapse .,"[4, 12]","[25, 33]",True
+go,N,It 's my go .,I 'll give it a go .,"[9, 11]","[16, 18]",False
+go,V,How did your interview go ?,"She was going that way anyway , so she offered to show him where it was .","[23, 25]","[8, 13]",True
+shot,N,The nurse gave him a flu shot .,He tried to get unposed shots of his friends .,"[25, 29]","[24, 29]",False
+mixture,N,He drank a mixture of beer and lemonade .,The mixture of sulphuric acid and water produces heat .,"[11, 18]","[4, 11]",False
+abuse,N,"All abuse , whether physical , verbal , psychological or sexual , is bad .",The child showed signs of physical abuse .,"[4, 9]","[35, 40]",True
+breeze,N,The breeze rustled the papers on her desk .,The breeze was cooled by the lake .,"[4, 10]","[4, 10]",True
+floss,V,She flossed her teeth .,The hygienist flossed my teeth .,"[4, 11]","[14, 21]",True
+refresher,N,The nap was a welcome refresher .,He stopped at the bar for a quick refresher .,"[22, 31]","[34, 43]",True
+violate,V,Violate the sanctity of the church .,This sentence violates the rules of syntax .,"[0, 7]","[14, 22]",False
+barrage,N,A barrage of questions .,They laid down a barrage in front of the advancing troops .,"[2, 9]","[17, 24]",False
+work,N,The symphony was hailed as an ingenious work .,Erosion is the work of wind or water over time .,"[40, 44]","[15, 19]",True
+transfer,N,The transfer of the music from record to tape suppressed much of the background noise .,The best student was a transfer from LSU .,"[4, 12]","[23, 31]",False
+homogenization,N,The homogenization of cream .,The network 's homogenization of political news .,"[4, 18]","[15, 29]",True
+intellect,N,He has a keen intellect .,Some of the world 's leading intellects were meeting there .,"[14, 23]","[29, 39]",False
+toilet,N,He made his morning toilet and went to breakfast .,Pensions are in the toilet .,"[20, 26]","[20, 26]",False
+military,N,Their military is the largest in the region .,He spent six years in the military .,"[6, 14]","[26, 34]",True
+leave,V,Leave lots of time for the trip .,This leaves no room for improvement .,"[0, 5]","[5, 11]",True
+scraping,N,All that bowing and scraping did not impress him .,They collected blood scrapings for analysis .,"[20, 28]","[21, 30]",False
+breed,N,Google represents a new breed of entrepreneurs .,A breed of tulip .,"[24, 29]","[2, 7]",False
+section,N,There are three synagogues in the Jewish section .,Sections from the left ventricle showed diseased tissue .,"[41, 48]","[0, 8]",False
+pound,V,The locks pound the water of the canal .,Pound the roots with a heavy flat stone .,"[10, 15]","[0, 5]",False
+connection,N,The bus was late so he missed his connection at Penn Station and had to wait six hours for the next train .,The plane was late and he missed his connection in Atlanta .,"[34, 44]","[37, 47]",True
+mechanism,N,A mechanism of social control .,Mechanisms of communication .,"[2, 11]","[0, 10]",True
+gargle,V,Gargle with this liquid .,Every morning he gargled a little cheap Scotch .,"[0, 6]","[17, 24]",True
+bang,N,He got a bang on the head .,They got a great bang out of it .,"[9, 13]","[17, 21]",False
+activity,N,Catalytic activity .,They avoided all recreational activity .,"[10, 18]","[30, 38]",False
+terror,N,He used terror to make them confess .,He was the terror of the neighborhood .,"[8, 14]","[11, 17]",False
+landing,N,The plane made a smooth landing .,His landing on his feet was catlike .,"[24, 31]","[4, 11]",True
+flowage,N,Rock fracture and rock flowage are different types of geological deformation .,Many campsites were located near the flowage .,"[23, 30]","[37, 44]",False
+denizen,N,The bald eagle is a denizen of the northern part of the state .,The giant squid is one of many denizens of the deep .,"[20, 27]","[31, 39]",False
+sensation,N,The news caused a sensation .,A sensation of touch .,"[18, 27]","[2, 11]",False
+state,V,State your name .,State your opinion .,"[0, 5]","[0, 5]",True
+foot,N,We went there by foot because we could not afford a taxi .,There is a lot of foot traffic on this street .,"[17, 21]","[18, 22]",True
+dollar,N,He worships the almighty dollar .,The dollar coin has never been popular in the United States .,"[25, 31]","[4, 10]",False
+view,N,They look the same in outward view .,The most desirable feature of the park are the beautiful views .,"[30, 34]","[57, 62]",False
+need,V,I need him to be nice .,I needed him to go .,"[2, 6]","[2, 8]",True
+role,N,My neighbor was the lead role in last year 's village play .,Play its role .,"[25, 29]","[9, 13]",False
+policy,N,You should have read the small print on your policy .,It was a policy of retribution .,"[45, 51]","[9, 15]",False
+urgency,N,They departed hurriedly because of some great urgency in their affairs .,"I 'll be there , barring any urgencies .","[46, 53]","[29, 38]",True
+book,N,I am reading a good book on economics .,He was frustrated because he could n't find anything about dinosaurs in the book .,"[20, 24]","[76, 80]",True
+scrap,N,The unhappy couple got into a terrible scrap .,That car is n't good for anything but scrap .,"[39, 44]","[38, 43]",False
+mess,V,I mess with the wardroom officers .,The afternoon breeze messed up my hair .,"[2, 6]","[21, 27]",False
+recognition,N,Territorial disputes were resolved in Guatemala 's recognition of Belize in 1991 .,The partners were delighted with the recognition of their work .,"[51, 62]","[37, 48]",False
+hitter,N,A hard hitter .,Blacksmiths are good hitters .,"[7, 13]","[21, 28]",True
+affiliation,N,A valuable financial affiliation .,Welcomed the affiliation of the research center with the university .,"[21, 32]","[13, 24]",False
+mate,N,He 's my best mate .,I 'm going to the pub with a few mates .,"[14, 18]","[33, 38]",True
+middle,N,"In the middle of the marathon , David collapsed from fatigue .",Rain during the middle of April .,"[7, 13]","[16, 22]",False
+diet,N,The diet of the Giant Panda consists mainly of bamboo .,He 's been reading a steady diet of nonfiction for the last several years .,"[4, 8]","[28, 32]",False
+induction,N,He was ordered to report for induction into the army .,The induction of an anesthetic state .,"[29, 38]","[4, 13]",False
+bull,V,To bull railroad bonds .,He bulled his way in .,"[3, 7]","[3, 9]",False
+impregnation,N,The impregnation of wood with preservative .,"The impregnation , whatever it was , had turned the rock blue .","[4, 16]","[4, 16]",False
+escalation,N,Higher wages caused an escalation of prices .,There was a gradual escalation of hostilities .,"[23, 33]","[20, 30]",True
+motivation,N,We did not understand his motivation .,His motivation was at a high level .,"[26, 36]","[4, 14]",False
+identity,N,"A right identity , x * I = x for any x in the structure .",You can lose your identity when you join the army .,"[8, 16]","[18, 26]",False
+holiday,N,Today is a Wiccan holiday !,No mail is delivered on federal holidays .,"[18, 25]","[32, 40]",True
+fire,N,Clinton directed his fire at the Republican Party .,There was a fire at the school last night and the whole place burned down .,"[21, 25]","[12, 16]",False
+average,V,"If you average 10 , 20 and 24 , you get 18 .",The number of hours I work per work averages out to 40 .,"[7, 14]","[36, 44]",False
+addition,N,The addition of a leap day every four years .,The addition of a bathroom was a major improvement .,"[4, 12]","[4, 12]",False
+segment,V,Segment a compound word .,Segment an orange .,"[0, 7]","[0, 7]",True
+shoot,V,Shoot cloth .,Shoot a star .,"[0, 5]","[0, 5]",False
+education,N,A girl 's education was less important than a boy 's .,Education is a preparation for life .,"[10, 19]","[0, 9]",True
+succession,N,A succession of failures .,A succession of stalls offering soft drinks .,"[2, 12]","[2, 12]",True
+erase,V,The files will erase quickly .,The chalkboard erased easily .,"[15, 20]","[15, 21]",True
+crush,V,To crush grapes .,The car crushed the toy .,"[3, 8]","[8, 15]",False
+figure,V,Elections figure prominently in every government program .,How do the elections figure in the current pattern of internal politics ?,"[10, 16]","[21, 27]",True
+eliminate,V,Let 's eliminate the course on Akkadian hieroglyphics .,This possibility can be eliminated from our consideration .,"[7, 16]","[24, 34]",False
+house,N,He counted the house .,The house applauded .,"[15, 20]","[4, 9]",True
+cooperation,N,Economic cooperation .,They agreed on a policy of cooperation .,"[9, 20]","[27, 38]",True
+indent,V,Indent the documents .,Indent the paragraphs of a letter .,"[0, 6]","[0, 6]",False
+militia,N,Their troops were untrained militia .,Congress shall have power to provide for calling forth the militia -- United States Constitution .,"[28, 35]","[59, 66]",True
+probation,N,Probation is part of the sentencing process .,"You 'll be on probation for first six months . After that , if you work out , they 'll hire you permanently .","[0, 9]","[14, 23]",False
+bag,V,Bag a few pheasants .,We bagged three deer yesterday .,"[0, 3]","[3, 9]",True
+herald,N,Rouge Dragon is a herald at the College of Arms .,The chieftain had a herald who announced his arrival with a trumpet .,"[18, 24]","[20, 26]",True
+detention,N,His detention was politically motivated .,The detention of tardy pupils .,"[4, 13]","[4, 13]",False
+spread,V,The invaders spread their language all over the country .,A big oil spot spread across the water .,"[13, 19]","[15, 21]",False
+accession,N,Accession to such demands would set a dangerous precedent .,The librarian shelved the new accessions .,"[0, 9]","[30, 40]",False
+switch,V,Switch to a different brand of beer .,I want to switch this red dress for a green one .,"[0, 6]","[10, 16]",False
+hang,V,Let 's hang this cute animal in the nursery .,Hang wallpaper .,"[7, 11]","[0, 4]",True
+association,N,You can not be convicted of criminal guilt by association .,He joined the Modern Language Association .,"[46, 57]","[30, 41]",False
+drop,N,It was a miracle that he survived the drop from that height .,"That was a long drop , but fortunately I did n't break any bones .","[38, 42]","[16, 20]",False
+precaution,N,He put an ice pack on the injury as a precaution .,To take precautions against risks of accident .,"[38, 48]","[8, 19]",True
+experience,N,A surprising experience .,Experience is the best teacher .,"[13, 23]","[0, 10]",False
+undo,V,Undo the shoelace .,A single mistake undid the President and he had to resign .,"[0, 4]","[17, 22]",False
+relief,N,He has been on relief for many years .,Was the relief supposed to be protection from future harm or compensation for past injury ?,"[15, 21]","[8, 14]",False
+adhocracy,N,The need for informational flexibility can lead to adhocracy .,The choice between bureaucracy and adhocracy represents a common dilemma .,"[51, 60]","[35, 44]",True
+nightlife,N,In the summer the nightlife shifts to the dance clubs .,A futile search for intelligent nightlife .,"[18, 27]","[32, 41]",True
+pencil,N,An eyebrow pencil .,This artist 's favorite medium is pencil .,"[11, 17]","[34, 40]",False
+poster,N,I saw a poster for it on the side of a bus .,A poster advertised the coming attractions .,"[8, 14]","[2, 8]",True
+word,N,We had a word or two about it .,"There was then a long discussion of whether to capitalize words like "" east "" .","[9, 13]","[58, 63]",True
+want,V,Want the strength to go on living .,Flood victims wanting food and shelter .,"[0, 4]","[14, 21]",True
+gauntlet,N,Threw down the gauntlet .,Took up the gauntlet .,"[15, 23]","[12, 20]",True
+bull,N,He was a bull of a man .,He made a bad bull of the assignment .,"[9, 13]","[14, 18]",False
+flick,V,Flick a piece of paper across the table .,He flicked his Bic .,"[0, 5]","[3, 10]",False
+treatment,N,His treatment of the race question is badly biased .,His treatment of space borrows from Italian architecture .,"[4, 13]","[4, 13]",False
+authority,N,She lost all her respect and authority after turning up drunk to the meeting .,This book is the final authority on the life of Milton .,"[29, 38]","[23, 32]",False
+grunt,N,He went from grunt to chairman in six years .,Infantrymen in Vietnam were called grunts .,"[13, 18]","[35, 41]",True
+toast,N,That toaster can make wonderful toasts .,I ate a piece of toast for breakfast .,"[32, 38]","[17, 22]",True
+hour,N,We live an hour from the airport .,It was their finest hour .,"[11, 15]","[20, 24]",False
+dig,N,They set up camp next to the dig .,She takes a dig at me every chance she gets .,"[29, 32]","[12, 15]",False
+dish,N,They served me a dish of rice .,We gave them a set of dishes for a wedding present .,"[17, 21]","[22, 28]",False
+death,N,The animal died a painful death .,He seemed more content in death than he had ever been in life .,"[26, 31]","[26, 31]",False
+upgrade,N,The power plant received a new upgrade .,"With my phone company , I get a free upgrade every twelve months if I keep topping up 10 pounds a month .","[31, 38]","[37, 44]",True
+afflict,V,Afflict with the plague .,She was afflicted by the death of her parents .,"[0, 7]","[8, 17]",False
+post,V,Post a warning at the dump .,The newspaper posted him in Timbuktu .,"[0, 4]","[14, 20]",False
+group,N,There is a group of houses behind the hill .,A group of people gathered in front of the Parliament to demonstrate against the Prime Minister 's proposals .,"[11, 16]","[2, 7]",True
+pinnacle,V,Pinnacle a pediment .,He did not want to be pinnacled .,"[0, 8]","[22, 31]",False
+bite,V,Gunny invariably tried to bite her .,"As soon as you bite that sandwich , you 'll know how good it is .","[26, 30]","[15, 19]",True
+finalize,V,Let 's finalize the proposal .,"As soon as we get the plane tickets , we 'll finalize our reservations with the hotel .","[7, 15]","[45, 53]",True
+lie,V,Lie down on the bed until you feel better .,She lied when she told me she was only 29 .,"[0, 3]","[4, 8]",False
+agency,N,She has free agency .,Central Intelligence Agency .,"[13, 19]","[21, 27]",False
+string,N,A string of islands .,The strings played superlatively well .,"[2, 8]","[4, 11]",False
+gnash,V,To gnash the air in fury .,To gnash a carpet .,"[3, 8]","[3, 8]",True
+twist,V,Do n't twist my words .,Twist the dough into a braid .,"[7, 12]","[0, 5]",False
+invite,V,Can I invite you for dinner on Sunday night ?,The organizers invite submissions of papers for the conference .,"[6, 12]","[15, 21]",False
+brush,V,Brush aside the objections .,Brush the dust from the jacket .,"[0, 5]","[0, 5]",True
+dad,N,He had n't seen his dad in years .,"Dad , happy Father 's Day !","[20, 23]","[0, 3]",True
+render,V,Render the brick walls in the den .,The face of the child is rendered with much tenderness in this painting .,"[0, 6]","[25, 33]",False
+kinship,N,Anthropology 's kinship with the humanities .,Felt a deep kinship with the other students .,"[16, 23]","[12, 19]",True
+agency,N,The superintendence and agency of Providence in the natural world . --Woodward .,The Central Intelligence Agency .,"[24, 30]","[25, 31]",False
+breakdown,N,"After so much stress , he suffered a breakdown and simply gave up .",His warning came after the breakdown of talks in London .,"[37, 46]","[27, 36]",False
+combust,V,We combust coal and other fossil fuels .,The professor combusted when the student did n't know the answer to a very elementary question .,"[3, 10]","[14, 23]",False
+writing,N,Writing was a form of therapy for him .,The idea occurs with increasing frequency in Hemingway 's writings .,"[0, 7]","[58, 66]",False
+inadequacy,N,Juvenile offenses often reflect an inadequacy in the parents .,The inadequacy of unemployment benefits .,"[35, 45]","[4, 14]",False
+step,N,Always a step behind .,Keep in step with the fashions .,"[9, 13]","[8, 12]",True
+flip,V,I 'd flip if anyone broke my phone .,He flipped when he heard that he was accepted into Princeton University .,"[5, 9]","[3, 10]",False
+reappearance,N,The reappearance of Halley 's comet .,His reappearance as Hamlet has been long awaited .,"[4, 16]","[4, 16]",False
+usage,N,English usage .,A usage borrowed from French .,"[8, 13]","[2, 7]",True
+gig,N,They played a gig in New Jersey .,Our guitar player had another gig so we had to get a sub .,"[14, 17]","[30, 33]",True
+demon,N,She 's a demon at math .,He worked like a demon to finish the job on time .,"[9, 14]","[17, 22]",True
+eccentricity,N,"For an ellipse , the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi - major axis .",A circle is an ellipse with zero eccentricity .,"[21, 33]","[33, 45]",True
+allowance,N,My weekly allowance of two eggs .,Travel allowance .,"[10, 19]","[7, 16]",True
+transplant,V,These delicate plants do not transplant easily .,Transplant the young rice plants .,"[29, 39]","[0, 10]",False
+middle,N,I woke up in the middle of the night .,"A whole is that which has beginning , middle , and end - Aristotle .","[17, 23]","[38, 44]",True
+spin,N,The campaign put a favorable spin on the story .,The skaters demonstrated their spins .,"[29, 33]","[31, 36]",False
+heel,V,Heel a golf ball .,Heel that dance .,"[0, 4]","[0, 4]",False
+socialization,N,"Force socialization rarely creates strong friendships , but there are exceptions .",There was too much socialization with the enlisted men .,"[6, 19]","[19, 32]",True
+attend,V,I rarely attend services at my church .,She attends class regularly .,"[9, 15]","[4, 11]",True
+oppression,N,The tyrant 's oppression of the people .,The oppression of the poor by the aristocracy was one cause of the French Revolution .,"[14, 24]","[4, 14]",True
+tap,V,Tap a cask of wine .,He tapped a new barrel of beer .,"[0, 3]","[3, 9]",True
+touch,V,"Please can I have a look , if I promise not to touch ?",Carrie touched his shoulder with the stick .,"[47, 52]","[7, 14]",True
+work,N,He was indebted to the pioneering work of John Dewey .,The work of an active imagination .,"[34, 38]","[4, 8]",True
+construction,N,The engineer marvelled at his construction .,Construction is underway on the new bridge .,"[30, 42]","[0, 12]",False
+catch,V,I would love to have dinner but I have to catch a plane .,We caught something of his theory in the lecture .,"[42, 47]","[3, 9]",False
+segregate,V,Experiments show clearly that genes segregate .,Many towns segregated into new counties .,"[36, 45]","[11, 21]",True
+border,N,The rug had a wide blue border .,The borders of the garden .,"[24, 30]","[4, 11]",True
+scavenge,V,Hyenas scavenge .,She scavenged the garbage cans for food .,"[7, 15]","[4, 13]",False
+manipulation,N,His manipulation of his friends was scandalous .,He found that the new manager was known for his Machiavellian manipulations in his last two positions .,"[4, 16]","[62, 75]",True
+flood,V,Flood the market with tennis shoes .,The swollen river flooded the village .,"[0, 5]","[18, 25]",False
+steam,V,Just steam the vegetables .,Her indifference to his amorous advances really steamed the young man .,"[5, 10]","[48, 55]",False
+foundation,N,He lacks the foundation necessary for advanced study .,"The Wikimedia Foundation , Inc. is the parent organization of the Wiktionary collaborative project .","[13, 23]","[14, 24]",False
+twilight,N,I could just make out her face in the twilight .,He loved the twilight .,"[38, 46]","[13, 21]",False
+rank,N,The strike was supported by the union rank and file .,He rose from the ranks to become a colonel .,"[38, 42]","[17, 22]",True
+delight,N,The new car is a delight .,His delight to see her was obvious to all .,"[17, 24]","[4, 11]",False
+path,N,The path of virtue .,Our paths in life led us apart .,"[4, 8]","[4, 9]",True
+get,V,The operator could n't get Kobe because of the earthquake .,I 'll get this finished by lunchtime .,"[23, 26]","[6, 9]",False
+forwarding,N,The forwarding of resumes to the personnel department .,The forwarding of mail to a new address is done automatically .,"[4, 14]","[4, 14]",True
+fail,V,Did I fail the test ?,She studied hard but failed nevertheless .,"[6, 10]","[21, 27]",True
+dimple,N,The accident created a dimple in the hood of the car .,There are approximately 336 dimples on a golf ball .,"[23, 29]","[28, 35]",True
+pity,N,It 's a pity he could n't do it .,The blind are too often objects of pity .,"[8, 12]","[35, 39]",False
+rail,N,He was concerned with rail safety .,He traveled by rail .,"[22, 26]","[15, 19]",True
+preempt,V,Discussion of the emergency situation will preempt the lecture by the professor .,Live broadcast of the presidential debate preempts the regular news hour .,"[43, 50]","[42, 50]",True
+assumption,N,The Nazi assumption of power in 1934 .,He acquired all the company 's assets for ten million dollars and the assumption of the company 's debts .,"[9, 19]","[70, 80]",True
+brother,N,I would like to thank the brother who just spoke .,None of his brothers would betray him .,"[26, 33]","[12, 20]",True
+recruit,V,Recruit new soldiers .,The lab director recruited an able crew of assistants .,"[0, 7]","[17, 26]",False
+upset,V,Truman upset Dewey in the 1948 US presidential election .,The foreign team upset the local team .,"[7, 12]","[17, 22]",True
+show,N,A show of impatience .,A good show of looking interested .,"[2, 6]","[7, 11]",True
+fondler,N,The woman charged that her jailer was a fondler .,Not all fondlers are sexual perverts .,"[40, 47]","[8, 16]",True
+body,N,The whole body filed out of the auditorium .,The student body .,"[10, 14]","[12, 16]",True
+destroy,V,Hooligans destroy unprovoked .,The fire destroyed the house .,"[10, 17]","[9, 18]",True
+confusion,N,The army retreated in confusion .,A confusion of impressions .,"[22, 31]","[2, 11]",False
+stress,N,Some people put the stress on the first syllable of “ controversy ” ; others put it on the second .,The intensity of stress is expressed in units of force divided by units of area .,"[20, 26]","[17, 23]",False
+inject,V,Inject hydrogen into the balloon .,Now lie back while we inject you with the anesthetic .,"[0, 6]","[22, 28]",False
+custody,N,He was mistreated while in police custody .,He is in the custody of police .,"[34, 41]","[13, 20]",True
+gesture,N,A political gesture .,A gesture of defiance .,"[12, 19]","[2, 9]",True
+cleat,V,Cleat running shoes for better traction .,Cleat a line .,"[0, 5]","[0, 5]",False
+repair,V,One can never fully repair the suffering and losses of the Jews in the Third Reich .,She repaired her TV set .,"[20, 26]","[4, 12]",False
+fold,V,Fold up the newspaper .,Tony folded the flaps open .,"[0, 4]","[5, 11]",True
+piano,N,Most of the works by Frédéric Chopin are for the piano .,"He can play "" Happy Birthday "" on the piano .","[49, 54]","[38, 43]",True
+decussate,V,The fibers decussate .,This nerve decussates the other .,"[11, 20]","[11, 21]",True
+grind,V,Grind lenses for glasses and cameras .,Grind an axe .,"[0, 5]","[0, 5]",True
+wail,V,Wail in self - pity .,She wailed with pain .,"[0, 4]","[4, 10]",False
+form,V,"By adding "" -ness "" , you can form a noun from an adjective .",Form cylinders from the dough .,"[30, 34]","[0, 4]",False
+pronunciation,N,That is the correct pronunciation .,The pronunciation of Chinese is difficult for foreigners .,"[20, 33]","[4, 17]",True
+criticism,N,The senator received severe criticism from his opponent .,The politician received a lot of public criticism for his controversial stance on the issue .,"[28, 37]","[40, 49]",False
+wrong,N,Injustice is a heinous wrong .,He feels that you are in the wrong .,"[23, 28]","[29, 34]",True
+fatigue,N,Growing fatigue was apparent from the decline in the execution of their athletic skills .,He was hospitalized for extreme fatigue .,"[8, 15]","[32, 39]",True
+cross,N,A mule is a cross between a horse and a donkey .,That is his cross to bear .,"[12, 17]","[12, 17]",False
+handle,V,Do n't handle the merchandise .,"About his altar , handling holy things - John Milton .","[7, 13]","[18, 26]",True
+hail,V,Hail a cab .,He was hailed as a hero .,"[0, 4]","[7, 13]",True
+stabilize,V,The country will stabilize after the next election ends .,The economy stabilized .,"[17, 26]","[12, 22]",True
+expect,V,I expect to receive wages .,We were expecting a visit from our relatives .,"[2, 8]","[8, 17]",True
+shower,N,The game was interrupted by a brief shower .,A little shower of rose petals .,"[36, 42]","[9, 15]",False
+promulgation,N,The promulgation was written in English .,His promulgation of the policy proved to be premature .,"[4, 16]","[4, 16]",False
+hostility,N,He could not conceal his hostility .,He could no longer contain his hostility .,"[25, 34]","[31, 40]",False
+clap,V,The children began to clap in time with the music .,The big bird clapped its wings .,"[22, 26]","[13, 20]",False
+clime,N,Plants from a cold clime travel best in winter .,"After working hard all of his life , Max retired to warmer climes in Florida .","[19, 24]","[59, 65]",True
+deal,N,A deal of trouble .,He made a deal with the devil .,"[2, 6]","[10, 14]",False
+listen,V,Please listen carefully as I explain .,I like to listen to music .,"[7, 13]","[10, 16]",True
+party,N,The party of the first part .,He planned a party to celebrate Bastille Day .,"[4, 9]","[13, 18]",False
+section,N,The history of this work is discussed in the next section .,A graduate student taught sections for the professor 's lecture course .,"[50, 57]","[26, 34]",False
+conserve,V,Conserve your energy for the ascent to the summit .,Mom always conserved the strawberries we grew in the backyard .,"[0, 8]","[11, 20]",False
+joy,N,A joy to behold .,The joys and demands of parenthood .,"[2, 5]","[4, 8]",False
+create,V,Create a poem .,Create one a peer .,"[0, 6]","[0, 6]",False
+surface,N,It was not what it appeared to be on the surface .,The cloth had a pattern of red dots on a white surface .,"[41, 48]","[47, 54]",False
+setting,N,A place setting of sterling flatware .,He changed the setting on the thermostat .,"[8, 15]","[15, 22]",False
+bane,N,The bane of my existence .,The bane of my life .,"[4, 8]","[4, 8]",True
+license,N,The intolerable license with which the newspapers break ... the rules of decorum - Edmund Burke .,When liberty becomes license dictatorship is near - Will Durant .,"[16, 23]","[21, 28]",True
+bend,V,The stick does not bend .,Bend your knees .,"[19, 23]","[0, 4]",False
+act,V,"She wants to act Lady Macbeth , but she is too young for the role .",I started acting at the age of eleven in my local theatre .,"[13, 16]","[10, 16]",True
+worship,V,They worship in the traditional manner .,Many Hindus worship Shiva .,"[5, 12]","[12, 19]",False
+minute,N,"Wait a minute , I 'm not ready yet !",It only takes a minute .,"[7, 13]","[16, 22]",True
+glow,N,A glow of regret .,The glow of new love .,"[2, 6]","[4, 8]",True
+prohibition,N,They were restrained by a prohibition in their charter .,In 1920 the 18th amendment to the Constitution established prohibition in the US .,"[26, 37]","[59, 70]",False
+near,V,They are nearing the coast .,The ship nears the land .,"[9, 16]","[9, 14]",True
+distance,N,I could see it in the distance .,The distance from New York to Chicago .,"[22, 30]","[4, 12]",False
+strand,N,A strand of pearls .,He tried to pick up the strands of his former life .,"[2, 8]","[24, 31]",False
+activity,N,The level of activity declines with age .,His sphere of activity .,"[13, 21]","[14, 22]",False
+delay,N,Instant replay caused too long a delay .,The delay before the echo of a sound .,"[33, 38]","[4, 9]",False
+dip,V,Dip the brush into the paint .,She dipped her knee .,"[0, 3]","[4, 10]",False
+bye,N,He had a bye in the first round .,Craig 's Crew plays the bye next week .,"[9, 12]","[24, 27]",True
+subsidy,N,A subsidy for research in artificial intelligence .,Manufacturing firms are supported by government subsidies in some countries .,"[2, 9]","[48, 57]",True
+fuel,V,"Fuel aircraft , ships , and cars .",Fuel the debate on creationism .,"[0, 4]","[0, 4]",False
+club,N,Each club played six home games with teams in its own division .,He played the drums at a jazz club .,"[5, 9]","[30, 34]",False
+longevity,N,Had unusual longevity in the company .,Her longevity as a star .,"[12, 21]","[4, 13]",True
+appreciate,V,I appreciate your efforts .,The yen appreciated again !,"[2, 12]","[8, 19]",False
+preponderance,N,The preponderance of good over evil .,The preponderance of wealth and power .,"[4, 17]","[4, 17]",True
+youth,N,Youth everywhere rises in revolt .,Her youth and beauty is what attracted him to her .,"[0, 5]","[4, 9]",False
+probity,N,In a world where financial probity may not be widespread .,He enjoys an exaggerated reputation for probity .,"[27, 34]","[40, 47]",True
+explanation,N,The explanation was very simple .,The explanation was long and drawn - out .,"[4, 15]","[4, 15]",True
+inject,V,Inject heroin .,He injected new life into the performance .,"[0, 6]","[3, 11]",False
+force,N,A force out was recorded on the scorecard .,A public force is necessary to give security to the rights of citizens .,"[2, 7]","[9, 14]",False
+preserve,V,Preserve the peace in the family .,To preserve silence .,"[0, 8]","[3, 11]",True
+restraint,N,The room was simply decorated with great restraint .,The car did not have proper restraints fitted .,"[41, 50]","[28, 38]",False
+log,N,They kept a log of all transmission by the radio station .,An email log .,"[12, 15]","[9, 12]",True
+cost,V,These shoes cost $ 100 .,The bill will cost them 500 million dollars .,"[12, 16]","[14, 18]",True
+professionalization,N,The professionalization of warfare .,The professionalization of American sports .,"[4, 23]","[4, 23]",True
+pocket,V,Lydia put the change in her left pocket .,Lydia pocketed the change .,"[33, 39]","[6, 14]",True
+stab,N,He took a stab at forecasting .,She felt a stab of excitement .,"[10, 14]","[11, 15]",False
+roll,N,The roll of a ball .,Look at the roll of the waves .,"[4, 8]","[12, 16]",True
+property,N,He is a man of property .,That hat is my property .,"[15, 23]","[15, 23]",True
+success,N,His success in the marathon was unexpected .,The election was a remarkable success for the Whigs .,"[4, 11]","[30, 37]",False
+sexualize,V,Some languages sexualize all nouns and do not have a neuter gender .,The god was sexualized and married to another god .,"[15, 24]","[12, 22]",True
+wish,N,It was his last wish .,They should respect the wishes of the people .,"[16, 20]","[24, 30]",True
+sultriness,N,The sultriness of her look was unmistakable .,The sultriness of lust was in the air .,"[4, 14]","[4, 14]",True
+crisis,N,They went bankrupt during the economic crisis .,After the crisis the patient either dies or gets better .,"[39, 45]","[10, 16]",False
+reality,N,The reality of his situation slowly dawned on him .,The reality of the crash scene on TV dawned upon him only when he saw the victim was no actor but his friend .,"[4, 11]","[4, 11]",True
+defense,N,They died in the defense of Stalingrad .,They were developed for the defense program .,"[17, 24]","[28, 35]",True
+forbid,V,I forbid you to call me late at night .,The rules forbid it .,"[2, 8]","[10, 16]",True
+update,V,I need to update my records to take account of the most recent transaction .,We updated the kitchen in the old house .,"[10, 16]","[3, 10]",True
+sound,N,The main body of the sound ran parallel to the coast .,He strained to hear the faint sounds .,"[21, 26]","[30, 36]",False
+system,N,That language has a complex system for indicating gender .,They have to operate under a system they oppose .,"[28, 34]","[29, 35]",True
+easiness,N,The very easiness of the deed held her back .,There was an easiness between them .,"[9, 17]","[13, 21]",False
+mire,V,To mire a horse or wagon .,Our people should not be mired in the past .,"[3, 7]","[25, 30]",False
+spend,V,Spend money .,He spends far more on gambling than he does on living proper .,"[0, 5]","[3, 9]",True
+reverence,N,The French treat food with gentle reverence .,The Chinese reverence for the dead .,"[34, 43]","[12, 21]",True
+buy,V,$ 50 wo n't even buy a dress .,FMC has bought 565 .,"[17, 20]","[8, 14]",True
+instruction,N,Students receive instruction in the arts and sciences .,Instruction will be provided on how to handle difficult customers .,"[17, 28]","[0, 11]",True
+extension,N,The dancer was praised for her uncanny extension .,Good extension comes from a combination of training and native ability .,"[39, 48]","[5, 14]",True
+believe,V,We did n't believe his stories from the War .,I believed his report .,"[11, 18]","[2, 10]",True
+heritage,N,The world 's heritage of knowledge .,A heritage of freedom .,"[13, 21]","[2, 10]",False
+caller,N,- Who 's the caller ?,There were so many callers that he finally disconnected the telephone .,"[13, 19]","[19, 26]",True
+base,N,He told the painter that he wanted a yellow base with just a hint of green .,Bases include oxides and hydroxides of metals and ammonia .,"[44, 48]","[0, 5]",False
+power,N,He needed a lot of power to hit the ball out of the stadium .,The mysterious presence of an evil power .,"[19, 24]","[35, 40]",False
+portmanteau,N,` brunch ' is a well - known portmanteau .,` motel ' is a portmanteau word made by combining ` motor ' and ` hotel ' .,"[29, 40]","[15, 26]",True
+promise,V,I promise you my best effort .,I promised somebody my time .,"[2, 9]","[2, 10]",True
+pierce,V,To pierce a mystery .,The path pierced the jungle .,"[3, 9]","[9, 16]",False
